@@ -5,4 +5,4 @@ Posted - These positions are any positions posted since the last time the script
 
 Filled - These positions are any positions that are removed from the list of posted positions
 
-Repostes - These positions are any positions that were marked as filled within the last 6 weeks and subsequently posted again (position title string match)
+Reposts - These positions are any positions that were marked as filled within the last 6 weeks and subsequently posted again (position title string match)
